@@ -115,3 +115,11 @@ Este repositório é de uso pessoal e educacional, livre para consulta e inspira
 <p align="center">
   Feito com 💙 e muito <code>print("Hello, World!")</code>
 </p>
+
+
+<img width="1440" height="3782" alt="image" src="https://github.com/user-attachments/assets/88ec62e1-605a-4a39-b8dc-795ccd65aa43" />
+
+<img width="1440" height="2946" alt="image" src="https://github.com/user-attachments/assets/712c7be5-d82a-49a9-b638-2589e4a2e81d" />
+
+<img width="1440" height="3014" alt="image" src="https://github.com/user-attachments/assets/75edc6ad-45f3-4f99-87dc-deed02af4c11" />
+
